@@ -1,3 +1,1 @@
-hello bbbbb
-
-gooooooood mornningggggg
+A developer began exploring Linux, learning how commands could control and shape an entire operating system.
